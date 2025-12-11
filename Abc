@@ -1,1 +1,16 @@
+<html>
+ <head>
+  <meta charset = "utf-8">
+ </head>
+  <h1> THỜI KHOÁ BIỂU </h1>
+  <table border="1">
+   <tr>
+    <th> THỨ HAI </th>
+    <th> THỨ BA </th>
+    <th> THỨ TƯ </th>
+    <th> THỨ NĂM </th>
+    <th> THỨ SÁU </th>
+    <th> THỨ BẢY </th>
+   </tr>
+
 
